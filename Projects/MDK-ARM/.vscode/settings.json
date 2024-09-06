@@ -1,0 +1,83 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "gcc",
+  "C_Cpp_Runner.cppCompilerPath": "g++",
+  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "C:/Program Files/Microsoft Visual Studio/VR_NR/Community/VC/Auxiliary/Build/vcvarsall.bat",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wcast-align",
+    "-Wconversion",
+    "-Wsign-conversion",
+    "-Wnull-dereference"
+  ],
+  "C_Cpp_Runner.msvcWarnings": [
+    "/W4",
+    "/permissive-",
+    "/w14242",
+    "/w14287",
+    "/w14296",
+    "/w14311",
+    "/w14826",
+    "/w44062",
+    "/w44242",
+    "/w14905",
+    "/w14906",
+    "/w14263",
+    "/w44265",
+    "/w14928"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\User",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\CMSIS\\Include",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Middlewares",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Source\\Templates\\arm",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Source\\Templates",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\SYSTEM\\delay",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\SYSTEM\\sys",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\SYSTEM\\usart",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\STM32F4xx_HAL_Driver\\Src",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\BSP\\LED",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\BSP\\KEY",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\BSP\\LCD",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\BSP\\BLDC",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动\\Drivers\\BSP\\TIMER",
+    "c:\\leaning\\【正点原子】DMF407 电机开发板资料盘（A盘）\\4，程序源码\\2，电机专题代码\\实验9 BLDC专题实验\\实验9-1 BLDC基础驱动"
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "C_Cpp_Runner.useUndefinedSanitizer": false,
+  "C_Cpp_Runner.useLeakSanitizer": false,
+  "C_Cpp_Runner.showCompilationTime": false,
+  "C_Cpp_Runner.useLinkTimeOptimization": false,
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "files.associations": {
+    "cstddef": "c",
+    "limits": "c",
+    "type_traits": "c"
+  }
+}
