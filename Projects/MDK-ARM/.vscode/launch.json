@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/proj/BLDC_9_1/Drivers/STM32F4xx_HAL_Driver/Src",
-      "program": "c:/proj/BLDC_9_1/Drivers/STM32F4xx_HAL_Driver/Src/build/Debug/outDebug",
+      "cwd": "c:/proj/BLDC/User",
+      "program": "c:/proj/BLDC/User/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
